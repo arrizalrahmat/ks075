@@ -12,7 +12,7 @@ const Navbar = () => {
       <Link href="/about">About us</Link> |{' '}
       <Link href="/members">Members</Link> |{' '}
       <Link href="/items">Items</Link> |{' '}
-      <Link href="/todo">Todo</Link>
+      <Link href="/expense">Expense</Link>
       {/* {token ? (
         <>
           {' '}
